@@ -1,0 +1,22 @@
+.banner {
+  padding : 200px 0px;
+  margin-bottom: 40px;
+  background-image: url('../../images/background.png');
+  background-size: cover;
+  min-height: 300px;
+  width: 100%;
+  color: white;
+}
+
+.banner-container {
+  width: 900px;
+  margin: auto
+}
+
+/* .banner h1 {
+  margin-bottom: 10px;
+}
+
+.banner p {
+  margin-bottom: 50px;
+} */
